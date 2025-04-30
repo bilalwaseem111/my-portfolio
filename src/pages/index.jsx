@@ -4,7 +4,7 @@ import Image from 'next/image';
 const projects = [
  
   { title: 'My Ai Chat Bot', description: 'An intelligent conversational chatbot built using AI to assist users with smart responses.', link: 'https://mychatbox-xrqfzxdl83xdums9hujpve.streamlit.app/', image: '/aipic.png' },
-     { title: 'My Watch World',
+     { title: 'Watch World',
     description: 'A sleek luxury watch shopping website featuring 30+ dynamic timepieces from brands like Rolex, Omega, and Tag Heuer. Fully animated, responsive, and connected with social platforms.',
     link: 'https://watch-world-six.vercel.app/',
     image: '/thumb.png'
