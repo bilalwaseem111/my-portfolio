@@ -2,6 +2,11 @@
 import React, { useRef } from 'react';
 import Image from 'next/image';
 const projects = [
+   { title: 'My Watch World',
+    description: 'A sleek luxury watch shopping website featuring 30+ dynamic timepieces from brands like Rolex, Omega, and Tag Heuer. Fully animated, responsive, and connected with social platforms.',
+    link: 'https://watch-world-six.vercel.app/',
+    image: '/thumb.png'
+  },
   { title: 'My Ai Chat Bot', description: 'An intelligent conversational chatbot built using AI to assist users with smart responses.', link: 'https://mychatbox-xrqfzxdl83xdums9hujpve.streamlit.app/', image: '/aipic.png' },
   { title: 'My Clutch Simulator App', description: 'A mechanical clutch simulation tool demonstrating clutch dynamics and functionality interactively.', link: 'https://clutch-app-two.vercel.app/', image: '/clutchpic.png' },
   { title: 'Car Rental App', description: 'A modern, user-friendly web app for browsing, booking, and managing car rentals seamlessly.', link: 'https://hackathon3t7.vercel.app/', image: '/rentalpic.png' },
